@@ -1,0 +1,11 @@
+Package: dsmmR
+Title: Make Regular Expressions Even More Exciting
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ioannis", "Mavrogiannis", , "imavrog3@gmail.com", role = c("aut", "cre"))
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
