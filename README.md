@@ -15,7 +15,7 @@ You can install the development version of dsmmR from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("AlestWalter/dsmmR")
+devtools::install_github("IoannisMavrogiannis/dsmmR")
 ```
 
 ## Example
